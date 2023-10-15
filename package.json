@@ -1,0 +1,29 @@
+{
+  "name": "gcp-research",
+  "version": "1.0.0",
+  "description": "common node project for GCP research",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergiiVlasiuk/GCP-research.git"
+  },
+  "keywords": [
+    "GCP",
+    "cloud",
+    "aoutobuild",
+    "node"
+  ],
+  "author": "Serhii Vlasiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergiiVlasiuk/GCP-research/issues"
+  },
+  "homepage": "https://github.com/SergiiVlasiuk/GCP-research#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
